@@ -7,6 +7,10 @@
 
 <https://github.com/GoogleContainerTools/jib/tree/master/jib-cli>
 
+## Dependencies
+
+- [Java](http://java.com/en/download): Jib requires a Java Runtime to run.
+
 ## Install
 
 ```bash
